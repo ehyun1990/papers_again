@@ -1,3 +1,4 @@
+Add figures section
 Add results section
 Change title and add co-author
 introduction section
